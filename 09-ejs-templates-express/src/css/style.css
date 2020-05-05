@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: 0.3s;
+}
+body::-webkit-scrollbar {
+  display: none;
+}
+
+h1 {
+  color: crimson;
+  background-color: lavenderblush;
+  padding: 10px;
+  text-align: center;
+}
